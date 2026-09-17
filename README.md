@@ -2,7 +2,7 @@
 A desktop banking and ATM simulation system built with Java Swing and local file persistence.
 
 
-README
+# README
 # National Bank — ATM & Management System
 
 A clean, desktop banking app I built with **Java** and **Java Swing**. It mimics real-world ATM workflows and essential banking features, with full data persistence so your accounts don't disappear when you close the app.
