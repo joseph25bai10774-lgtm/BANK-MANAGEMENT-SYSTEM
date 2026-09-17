@@ -146,7 +146,7 @@ Some features I would like to add in future versions are:
 This is an educational project and is not connected to any real bank.
 The current version is designed for learning and demonstration purposes and should not be used to store real banking or financial information.
 
-## Author
+## Student Details
 
 Name: Joseph Binson
 
