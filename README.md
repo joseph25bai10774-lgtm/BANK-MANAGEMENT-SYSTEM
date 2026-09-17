@@ -140,11 +140,3 @@ Some features I would like to add in future versions are:
 * PDF bank statements
 * Improved transaction history
 * Better UI and user experience
-
-##Student Details
-
-Name: Joseph Binson
-
-Register No: 25BAI10774
-
-B.Tech CSE (AI & ML)
