@@ -2,7 +2,7 @@
 A desktop banking and ATM simulation system built with Java Swing and local file persistence.
 
 
-# Prosperity National Bank
+# National Bank
 
 ## ATM and Banking Management System
 
@@ -156,8 +156,6 @@ The current version is designed for learning and demonstration purposes and shou
 
 ## Author
 
-Joseph Binson
-
+Name: Joseph Binson
+Register No: 25BAI10774
 B.Tech CSE (AI & ML)
-
-This project was created as part of my learning journey with Java and application devel
