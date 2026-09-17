@@ -149,5 +149,7 @@ The current version is designed for learning and demonstration purposes and shou
 ## Author
 
 Name: Joseph Binson
+
 Register No: 25BAI10774
+
 B.Tech CSE (AI & ML)
