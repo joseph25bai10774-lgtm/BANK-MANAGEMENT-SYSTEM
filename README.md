@@ -28,9 +28,7 @@ The application also saves account data locally, so the information can be acces
 ## How It Works
 
 The application starts with the login and account creation options.
-
 After creating an account, the user receives an account number and can use it along with their PIN to log in.
-
 After login, the main dashboard provides access to the banking operations.
 
 ```text
@@ -57,7 +55,6 @@ Whenever a deposit or withdrawal is made, the account balance is updated and the
 ## Data Storage
 
 The project uses Java Serialization to save the account information locally.
-
 The data is stored in:
 
 ```text
@@ -65,7 +62,6 @@ bank_data.ser
 ```
 
 This means the account information can be loaded again when the application is opened.
-
 No external database is required for the current version.
 
 ## Technologies Used
@@ -111,7 +107,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/bank-management-system.git
 ```
-
 Open the project in a Java IDE.
 
 Find the main class:
@@ -119,9 +114,7 @@ Find the main class:
 ```text
 BankManagementSystem.java
 ```
-
 Run the main class to start the application.
-
 If running from the terminal:
 
 ```bash
@@ -151,7 +144,6 @@ Some features I would like to add in future versions are:
 ## Disclaimer
 
 This is an educational project and is not connected to any real bank.
-
 The current version is designed for learning and demonstration purposes and should not be used to store real banking or financial information.
 
 ## Author
